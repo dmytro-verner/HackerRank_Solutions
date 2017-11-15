@@ -12,9 +12,9 @@ class Solution{
         }
         sc.close();
 		
-		Arrays.sort(s, 0, n, Collections.reverseOrder((s1, s2) -> new BigDecimal(s1).compareTo(new BigDecimal(s2))));
+	Arrays.sort(s, 0, n, Collections.reverseOrder((s1, s2) -> new BigDecimal(s1).compareTo(new BigDecimal(s2))));
 		
-		//Output
+	//Output
         for(int i=0;i<n;i++)
         {
             System.out.println(s[i]);
