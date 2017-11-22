@@ -7,7 +7,7 @@ import java.util.regex.*;
 public class Solution {
 
     public static void main(String[] args) {
-          Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
         int listOfListsSize = scanner.nextInt();
 
         List<List<Integer>> listOfLists = new ArrayList<>(listOfListsSize);
