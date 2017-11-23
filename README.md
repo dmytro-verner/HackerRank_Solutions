@@ -69,10 +69,10 @@
 
 # Algorithms
 
+|          Subdomain          |                                                         Challenge                                                           | Points  |                                                                                         Solution                                                                                        |
+|:---------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |         Warmup              | [Staircase](https://www.hackerrank.com/challenges/staircase/problem)                                                        |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Algorithms/Warmup/Staircase.java)                                                                     |
 |         Warmup              | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                                                  |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Algorithms/Warmup/Mini-Max%20Sum.java)                                                                |
 |         Warmup              | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)                                |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Algorithms/Warmup/Birthday%20Cake%20Candles.java)                                                     |
-|         Warmup              | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                |    15   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Algorithms/Warmup/Time%20Conversion.java)                                                     |
-
-
+|         Warmup              | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)                                            |    15   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Algorithms/Warmup/Time%20Conversion.java)                                                             |
 
