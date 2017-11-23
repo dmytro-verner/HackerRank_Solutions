@@ -12,10 +12,8 @@ public class Solution {
         for(int arr_i=0; arr_i < 5; arr_i++){
             arr[arr_i] = in.nextInt();
         }
-        
-        //System.out.println(arr[0]);
+
         Arrays.sort(arr);
-        //System.out.println(arr[0]);
         
         long minSum = 0, maxSum = 0;
         for(int i = 0; i < arr.length; i++){
