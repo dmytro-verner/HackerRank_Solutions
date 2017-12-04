@@ -1,4 +1,4 @@
-SELECT cnt.contest_id, cnt.hacker_id, cnt.name, SUM(total_submissions), SUM(total_accepted_submissions), SUM(total_views),                 SUM(total_unique_views) FROM contests cnt
+SELECT cnt.contest_id, cnt.hacker_id, cnt.name, SUM(total_submissions), SUM(total_accepted_submissions), SUM(total_views), SUM(total_unique_views) FROM contests cnt
     INNER JOIN colleges clg ON cnt.contest_id = clg.contest_id
     INNER JOIN challenges chlg ON chlg.college_id = clg.college_id
     LEFT JOIN (
