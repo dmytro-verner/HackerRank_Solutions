@@ -65,6 +65,10 @@
 |         Basic Join          | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem)                                    |    30   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Basic%20Join/Contest%20Leaderboard.sql)                                                           |
 |         Alternative Queries | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem)                                    |    25   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Alternative%20Queries/Draw%20The%20Triangle%201.sql)                                              |
 |         Alternative Queries | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem)                                    |    25   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Alternative%20Queries/Draw%20The%20Triangle%202.sql)                                              |
+|         Advanced Join       | [Placements](https://www.hackerrank.com/challenges/placements/problem)                                                      |    40   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Advanced%20Join/Placements.sql)                                                                   |
+|         Advanced Join       | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem)                                            |    40   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Advanced%20Join/Symmetric%20Pairs.sql)                                                            |
+|         Advanced Join       | [Interviews](https://www.hackerrank.com/challenges/interviews/problem)                                                      |    50   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/SQL/Advanced%20Join/Interviews.sql)                                              |
+
 
 
 # Algorithms
