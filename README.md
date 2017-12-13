@@ -31,6 +31,8 @@
 |         Data Structures     | [Java Arraylist](https://www.hackerrank.com/challenges/java-arraylist/problem)                                           |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Data%20Structures/Java%20Arraylist/Solution.java)                                                |
 |         Data Structures     | [Java 2D Array](https://www.hackerrank.com/challenges/java-2d-array/problem)                                             |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Data%20Structures/Java%202D%20Array/Solution.java)                                               |
 |         Data Structures     | [Java Sort](https://www.hackerrank.com/challenges/java-sort/problem)                                                     |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Data%20Structures/Java%20Sort/Solution.java)                                                     |
+|         Data Structures     | [Java BitSet](https://www.hackerrank.com/challenges/java-bitset/problem)                                                 |    20   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Data%20Structures/Java%20BitSet/Solution.java)                                               |
+|         Advanced            | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)                                                    |    30   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)                                                           |
 
 
 # SQL
