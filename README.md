@@ -5,6 +5,7 @@
 </p>
 
 * [Java](#java)
+* [Scala](#scala)
 * [SQL](#sql)
 * [Algorithms](#algorithms)
 
@@ -41,6 +42,11 @@
 |         Advanced            | [Java MD5](https://www.hackerrank.com/challenges/java-md5/problem)                                                       |    30   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Advanced/Java%20MD5/Solution.java)                                                               |
 |         Advanced            | [Java SHA-256](https://www.hackerrank.com/challenges/sha-256/problem)                                                    |    30   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Java/Advanced/Java%20SHA-256/Solution.java)                                                           |
 
+# Scala
+
+|          Subdomain          |                                                         Challenge                                                        | Points  |                                                                                         Solution                                                                                        |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|         Introduction        | [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)                                    |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Scala/Introduction/List%20Replication/Solution.scala)                                                 |
 
 # SQL
 
