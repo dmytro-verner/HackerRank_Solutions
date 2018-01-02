@@ -48,6 +48,7 @@
 |:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:-------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 |         Introduction        | [List Replication](https://www.hackerrank.com/challenges/fp-list-replication/problem)                                    |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Scala/Introduction/List%20Replication/Solution.scala)                                                 |
 |         Introduction        | [Filter Array](https://www.hackerrank.com/challenges/fp-filter-array/problem)                                            |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Scala/Introduction/Filter%20Array/Solution.scala)                                                     |
+|         Introduction        | [Filter Positions in a List](https://www.hackerrank.com/challenges/fp-filter-positions-in-a-list/problem)                |    10   | [Solution.java](https://github.com/dmytro-verner/HackerRank_Solutions/blob/master/Scala/Introduction/Filter%20Positions%20in%20a%20List/Solution.scala)                                 |
 
 # SQL
 
