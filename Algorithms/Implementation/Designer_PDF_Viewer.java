@@ -9,7 +9,7 @@ import java.util.stream.*;
 
 public class Solution {
 
-    O(n) - time complexity
+    //O(n) - time complexity
     static int designerPdfViewer(int[] h, String word) {
         int maxHeight = word.chars().map(c -> h[c - (int)'a']).max().getAsInt();
         return maxHeight * word.length();
